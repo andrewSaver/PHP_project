@@ -45,4 +45,6 @@
 
     echo $sum;
 
+    echo $string3;
+
 ?>
