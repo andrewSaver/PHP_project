@@ -41,10 +41,8 @@
 
     define('GREETING', 'Hello Everyone');
 
-    echo $sum;
-
     echo GREETING;
 
-    echo $string1;
+    echo $sum;
 
 ?>
